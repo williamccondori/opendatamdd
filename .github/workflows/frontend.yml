@@ -7,7 +7,7 @@ on:
       - frontend/**
 
 env:
-  PROJECT_NAME: geoportalvivienda-frontend
+  PROJECT_NAME: opendatamdd-frontend
 
 jobs:
   build:
