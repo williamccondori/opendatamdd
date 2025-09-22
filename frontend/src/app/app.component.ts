@@ -18,7 +18,7 @@ export class AppComponent implements OnInit, OnDestroy {
   private readonly stateService = inject(StateService);
   private subscription: Subscription = new Subscription();
 
-  isLoading = false;
+  isLoading = false; // Demo
 
   ngOnInit(): void {
     this.subscription = this.stateService.isLoading$.subscribe((estado) => {
