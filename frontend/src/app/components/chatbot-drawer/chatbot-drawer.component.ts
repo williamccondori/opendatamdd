@@ -140,7 +140,7 @@ export class ChatbotDrawerComponent
       return;
     }    // Test con la mejor voz femenina disponible
     const testText =
-      'Hola, soy tu asistente virtual del Ministerio de Vivienda. Esta es una prueba de mi voz.';
+      'Hola, soy tu asistente virtual de la Plataforma de Datos Abiertos. Esta es una prueba de mi voz.';
 
     this.speechSynthesis.cancel();
 

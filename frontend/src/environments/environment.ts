@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://apiministerioviviendageoportal.mooo.com/api',
+  apiUrl: 'https://apiopendatamdd.mooo.com/api',
 };

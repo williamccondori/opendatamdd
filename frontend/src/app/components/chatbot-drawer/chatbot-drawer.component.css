@@ -39,7 +39,7 @@
 
 /* Empty state */
 .chat-messages:empty::before {
-  content: "¡Hola! 👋 Soy tu asistente virtual del Ministerio de Vivienda. ¿En qué puedo ayudarte hoy?";
+  content: "¡Hola! 👋 Soy tu asistente virtual del Plataforma de Datos Abiertos. ¿En qué puedo ayudarte hoy?";
   display: flex;
   align-items: center;
   justify-content: center;
